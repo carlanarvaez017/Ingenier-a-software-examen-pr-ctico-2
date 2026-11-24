@@ -3,3 +3,6 @@ INTEGRANTES DEL PROYECTO:
 2.Carla Alejandra Narváez Merchán
 3.Anahi Noemi Viñanzaca López
 4.Danna Ibeth Jiménez Montiel
+Participación en el proyecto: 
+Todos los integrantes colaboraron en las actividades de creación,
+modificación y publicación de archivos utilizando Git y GitHub.
