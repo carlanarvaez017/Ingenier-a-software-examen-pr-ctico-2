@@ -26,3 +26,11 @@ Trabajo colaborativo entre los integrantes.
 
 7. Conclusión
 Git y GitHub permiten mantener un registro organizado de los cambios realizados en un proyecto. Además, facilitan la colaboración entre los integrantes y permiten consultar las modificaciones realizadas.
+
+8. Comandos básicos utilizados
+git init: inicializar un repositorio.
+git add: preparar los archivos modificados.
+git commit: guardar los cambios realizados.
+git status: consultar el estado de los archivos.
+git log: revisar el historial de commits.
+git push: publicar los cambios en GitHub.
